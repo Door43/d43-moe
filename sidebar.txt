@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moe:home|Door43 (moe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moe|d43-moe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moe/archive/master.zip|d43-moe.zip]]
+
+**Recent Changes**
+{{changes>ns = moe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moe|Ethnologue data]]
+
